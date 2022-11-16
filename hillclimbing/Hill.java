@@ -3,7 +3,7 @@ import java.util.LinkedList;
 import java.util.Random;
 
 public class Hill {
-	int iterationsNumber; // numero maximo de interacoes
+	int iterationsNumber; // max number of interations
 	
 	public int[] hillClimbing(int [][] matrix, int iterationsNumber, int citiesQty) {
 		this.iterationsNumber = iterationsNumber;
