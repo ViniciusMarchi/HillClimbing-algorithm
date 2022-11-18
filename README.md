@@ -2,7 +2,7 @@
 # Table of Contents
   * [Hill Climbing](#hill-climbing)
   * [Traveling Salesman Problem](#traveling-salesman-problem)
-  * [# The algorithm](#the-algorithm)
+  * [The algorithm](#the-algorithm)
     * [Compiling files](#Compiling-files) 
     * [Run algorithm](#Run-algorithm)
 
@@ -112,7 +112,7 @@ The code implemented in this repository works as follows: it receives a graph, r
   javac -cp . hillclimbing/*.java -d ./out
   ```
 
-This command will generate compiled ```.class``` files that will be stored in the ```/out/hillclimbing``` directory.
+  This command will generate compiled ```.class``` files that will be stored in the ```/out/hillclimbing``` directory.
 
 ### Run algorithm
 To run the algorithm, just execute the ```Main.class``` file, generated in the compilation process, but it is necessary to pass two arguments as parameters when executing this file.
