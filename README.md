@@ -19,13 +19,18 @@ The goal of the algorithm is to find solutions that represent global maxima (or 
 
 The image below displays a search surface with two local maxima on it, so that only one of them is the global maximum.
 
-<center>
-
-| ![maximum.local.png](./assets/Local_maximum.png) | 
-|:--:|
-| [A surface with two local maxima](https://en.wikipedia.org/wiki/Hill_climbing#/media/File:Local_maximum.png) |
-
-</center>
+<table align="center">
+  <tr>
+    <th>
+      <img src="./assets/Local_maximum.png" alt="A surface image with two local maxima">
+    </th>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://en.wikipedia.org/wiki/Hill_climbing#/media/File:Local_maximum.png">A surface with two local maxima</a>
+    </td>
+  </tr>
+</table>
 
 # Traveling Salesman Problem
 > The travelling salesman problem (also called the travelling salesperson problem or TSP) asks the following question: "Given a list of cities and the distances between each pair of cities, what is the shortest possible route that visits each city exactly once and returns to the origin city?" 
